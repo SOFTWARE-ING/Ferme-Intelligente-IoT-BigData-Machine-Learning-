@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Vous pouvez ajouter des styles de base personnalisés ici */
+body {
+  @apply antialiased; /* Police plus lisse sur certains navigateurs */
+}
