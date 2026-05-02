@@ -1,3 +1,14 @@
+node_modules/
+.env
+uploads/
+logs/
+*.log
+.DS_Store
+dist/
+build/
+data/
+logs/
+
 # Logs
 logs
 *.log
